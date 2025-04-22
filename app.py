@@ -39,3 +39,6 @@ if __name__ == "__main__":
     # clApp = ClientApp()
     # app.run(host='0.0.0.0', port=port)
     app.run(debug=True)
+
+
+0987654321 from flask import Flask, request, jsonify, render_template import os from flask_cors import CORS, cross_origin from com_in_ineuron_ai_utils.utils import decodeImage from predict import dogcat !@#$%^&*()
